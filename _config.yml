@@ -5,6 +5,7 @@ description: > # this means to ignore newlines until "show_exerpts:"
   데이터 엔지니어와 백엔드 개발자를 꿈꾸지만 현재로선 그냥 놀고싶은 대3입니다 움하하
   바쁘다 바빠 현대사회
 show_excerpts: true # set to true to show excerpts on the homepage
+future: true
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this

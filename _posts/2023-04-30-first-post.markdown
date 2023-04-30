@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "First Post"
-date:   2023-04-30 15:40:36 +0530
+date:   2023-04-30 18:40:36 +0530
 categories: Purpose
 ---
 깃헙 블로그 테마 셋업 후 첫 글입니당!
